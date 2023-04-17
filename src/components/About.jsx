@@ -11,12 +11,13 @@ const About = () => {
         <article className="about-info">
           <h3>explore the difference</h3>
           <p>
-            Lorem ipsum, dolor sit amet consectetur adipisicing elit. Aspernatur quisquam harum nam cumque temporibus
-            explicabo dolorum sapiente odio unde dolor?
+            Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquid ducimus quos eius non sequi tenetur debitis
+            animi ex voluptate expedita ratione dolorum, ipsum labore modi sapiente exercitationem atque praesentium ab!
           </p>
           <p>
-            Lorem ipsum, dolor sit amet consectetur adipisicing elit. Aspernatur quisquam harum nam cumque temporibus
-            explicabo dolorum sapiente odio unde dolor?
+            Lorem ipsum dolor sit, amet consectetur adipisicing elit. Explicabo mollitia tenetur autem, necessitatibus
+            repudiandae optio? Ducimus beatae inventore dolores placeat magni. Quo tenetur tempora autem. Iure
+            consequuntur facere quia omnis!
           </p>
           <a href="#about" className="btn">
             read more
